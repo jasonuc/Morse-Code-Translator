@@ -14,4 +14,4 @@ def english_to_morse(string):
     print("THE TEXT HAS BEEN WRITTEN INTO Morse-Code-Fall.txt IN MORSE CODE.")
 
 
-english_to_morse('Hello world!')
+english_to_morse('He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there.')
