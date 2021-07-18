@@ -13,5 +13,7 @@ def english_to_morse(string):
     morse_file.close()
     print("THE TEXT HAS BEEN WRITTEN INTO Morse-Code-Fall.txt IN MORSE CODE.")
 
+def morse_to_enlish(string):
+    pass
 
 english_to_morse('He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there.')
