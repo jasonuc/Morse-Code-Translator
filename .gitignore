@@ -1,2 +1,5 @@
 .DS_Store
 __pycache__/
+test.py
+Morse-Code-File.txt
+English-File.txt
