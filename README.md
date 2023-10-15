@@ -1,3 +1,3 @@
 # Morse-Code-Translator
 
-Translated from enlosh to morse code.
+Translated from english to morse code.

@@ -16,7 +16,7 @@ def english_to_morse(string):
     return morse_code_string
 
 def morse_to_enlish(string):
-    print('Please seperate each character witha space')
+    print('Please seperate each character with a space')
     dic_of_morsecode = {}
     n_string = ''
     for key, value in code.items():
@@ -29,5 +29,6 @@ def morse_to_enlish(string):
     print("THE TEXT HAS BEEN WRITTEN INTO English-File.txt IN MORSE CODE.")
     return n_string
 
-english_to_morse('Jam Fish')
+
 print(morse_to_enlish('•---/•-/--/|/••-•/••/•••/••••/'))
+print(english_to_morse('Jam Fish'))
